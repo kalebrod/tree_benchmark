@@ -1,0 +1,154 @@
+{
+    "filter_1": {
+        "binary": {
+            "df_1": {
+                "load": 34,
+                "get_value": 5
+            },
+            "df_2": {
+                "load": 329,
+                "get_value": 48
+            },
+            "df_3": {
+                "load": 681,
+                "get_value": 97
+            },
+            "df_4": {
+                "load": 1558,
+                "get_value": 217
+            }
+        },
+        "avl": {
+            "df_1": {
+                "load": 39,
+                "get_value": 5
+            },
+            "df_2": {
+                "load": 404,
+                "get_value": 23
+            },
+            "df_3": {
+                "load": 842,
+                "get_value": 91
+            },
+            "df_4": {
+                "load": 1935,
+                "get_value": 194
+            }
+        }
+    },
+    "filter_2": {
+        "binary": {
+            "df_1": {
+                "load": 33,
+                "get_value": 4
+            },
+            "df_2": {
+                "load": 350,
+                "get_value": 49
+            },
+            "df_3": {
+                "load": 664,
+                "get_value": 101
+            },
+            "df_4": {
+                "load": 1597,
+                "get_value": 228
+            }
+        },
+        "avl": {
+            "df_1": {
+                "load": 39,
+                "get_value": 5
+            },
+            "df_2": {
+                "load": 408,
+                "get_value": 23
+            },
+            "df_3": {
+                "load": 853,
+                "get_value": 9332
+            },
+            "df_4": {
+                "load": 1922,
+                "get_value": 198
+            }
+        }
+    },
+    "filter_3": {
+        "binary": {
+            "df_1": {
+                "load": 32,
+                "get_value": 5
+            },
+            "df_2": {
+                "load": 355,
+                "get_value": 48
+            },
+            "df_3": {
+                "load": 671,
+                "get_value": 98
+            },
+            "df_4": {
+                "load": 1593,
+                "get_value": 223
+            }
+        },
+        "avl": {
+            "df_1": {
+                "load": 39,
+                "get_value": 4
+            },
+            "df_2": {
+                "load": 408,
+                "get_value": 22
+            },
+            "df_3": {
+                "load": 868,
+                "get_value": 92
+            },
+            "df_4": {
+                "load": 1949,
+                "get_value": 191
+            }
+        }
+    },
+    "filter_4": {
+        "binary": {
+            "df_1": {
+                "load": 32,
+                "get_value": 5
+            },
+            "df_2": {
+                "load": 335,
+                "get_value": 53
+            },
+            "df_3": {
+                "load": 700,
+                "get_value": 108
+            },
+            "df_4": {
+                "load": 1608,
+                "get_value": 243
+            }
+        },
+        "avl": {
+            "df_1": {
+                "load": 39,
+                "get_value": 6
+            },
+            "df_2": {
+                "load": 411,
+                "get_value": 24
+            },
+            "df_3": {
+                "load": 859,
+                "get_value": 101
+            },
+            "df_4": {
+                "load": 1954,
+                "get_value": 210
+            }
+        }
+    }
+}
